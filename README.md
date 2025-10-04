@@ -40,7 +40,7 @@ Xóa sản phẩm khỏi giỏ hàng
 Thay đổi số lượng sản phẩm trong giỏ hàng
 
 ## 📐 Thiết kế hệ thống
-- **Use Case Diagram**: ![Use Case](./docs/usecase.png)
+- **Use Case Diagram**: ![Use Case](.usecase.png)
 - **Sequence Diagram**: ![Sequence](./docs/sequence.png)
 - **ERD (Entity Relationship Diagram)**: ![ERD](./docs/erd.png)
 
