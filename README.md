@@ -66,6 +66,7 @@ Mối quan hệ:
 
 
 1.2 Biểu đồ UML Use Case: ![Use Case](https://github.com/SounHuynh/NMCPM/issues/5#issue-3483553974)
+
 1.3 Sequence UML: 
 
 a)Sequence luồng Đặt phòng online: ![Sequence](https://github.com/SounHuynh/NMCPM/issues/6#issue-3483555739)
