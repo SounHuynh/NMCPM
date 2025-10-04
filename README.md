@@ -17,7 +17,7 @@ Lớp: D23CQPTTK01-N.
 
 Software Engineering Lab 
 
-Lab 01: Đề tài 1 – Shopping Cart:
+## 📐 Lap_01: Đề tài Shopping Cart
 
 Các use case chính:
 
@@ -39,7 +39,6 @@ Xóa sản phẩm khỏi giỏ hàng
 
 Thay đổi số lượng sản phẩm trong giỏ hàng
 
-## 📐 Thiết kế hệ thống
 - **Use Case Diagram**: ![Use Case](https://github.com/SounHuynh/NMCPM/issues/1#issue-3483538595)
 - **Sequence User diagram **: ![User Sequence](https://github.com/SounHuynh/NMCPM/issues/2#issue-3483541930)
 - **Sequence Admin diagram **: ![User Sequence](https://github.com/SounHuynh/NMCPM/issues/3#issue-3483543456)
@@ -47,7 +46,7 @@ Thay đổi số lượng sản phẩm trong giỏ hàng
 
 Jira quản lí dự án: https://huynhnhatson-n23dcpt102.atlassian.net/jira/software/projects/SM/boards/5/timeline.
  
-Lab 02 – Phân tích yêu cầu & Thiết kế Use Case
+## 📐 Lap_02: Đề tài Hotel booking system
 
 1.1 Entity (6 bảng dữ liệu chính)
 • Guest (Khách hàng)
