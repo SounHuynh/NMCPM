@@ -40,8 +40,8 @@ Xóa sản phẩm khỏi giỏ hàng
 Thay đổi số lượng sản phẩm trong giỏ hàng
 
 ## 📐 Thiết kế hệ thống
-- **Use Case Diagram**: ![Use Case]()
-- **Sequence Diagram**: ![Sequence](https://github.com/SounHuynh/NMCPM/issues/1#issue-3483538595)
+- **Use Case Diagram**: ![Use Case](https://github.com/SounHuynh/NMCPM/issues/1#issue-3483538595)
+- **Sequence Diagram**: ![Sequence]()
 - **ERD (Entity Relationship Diagram)**: ![ERD](./docs/erd.png)
 
 Jira quản lí dự án: https://huynhnhatson-n23dcpt102.atlassian.net/jira/software/projects/SM/boards/5/timeline.
