@@ -17,17 +17,10 @@ Mục tiêu là áp dụng quy trình phát triển phần mềm, từ **phân t
 
 Software Engineering Lab 
 
-Lab 01 – Thiết lập môi trường & Quản lý dự án trên GitHub
-•	Mục tiêu: Sinh viên làm quen với GitHub, Git, và công cụ lập trình.
-•	Nội dung:
-o	Tạo tài khoản GitHub, tạo repository riêng cho môn học.
-o	Cấu hình Git (clone, commit, push, pull).
-o	Cập nhật profile cá nhân trên README.md.
-o	Upload bài tập đơn giản: file text giới thiệu bản thân.
-
 Lab 01: Đề tài 1 – Shopping Cart:
 
 Các use case chính:
+
 👤Admin:
 
 Thêm sản phẩm
