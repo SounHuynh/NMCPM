@@ -1,4 +1,4 @@
-<img width="490" height="579" alt="use case" src="https://github.com/user-attachments/assets/af19a931-9360-4e46-b0ad-0be580d77865" /># 🛠️ Software Engineering Project 
+🛠️ Software Engineering Project 
 
 ## 📌 Giới thiệu
 Dự án này được phát triển trong môn **Nhập môn Công nghệ Phần mềm**.  
