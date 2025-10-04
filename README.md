@@ -1,4 +1,4 @@
-# 🛠️ Software Engineering Project 
+<img width="490" height="579" alt="use case" src="https://github.com/user-attachments/assets/af19a931-9360-4e46-b0ad-0be580d77865" /># 🛠️ Software Engineering Project 
 
 ## 📌 Giới thiệu
 Dự án này được phát triển trong môn **Nhập môn Công nghệ Phần mềm**.  
@@ -54,12 +54,36 @@ Thay đổi số lượng sản phẩm trong giỏ hàng
 Jira quản lí dự án: https://huynhnhatson-n23dcpt102.atlassian.net/jira/software/projects/SM/boards/5/timeline.
  
 Lab 02 – Phân tích yêu cầu & Thiết kế Use Case
-•	Mục tiêu: Sinh viên học cách mô tả yêu cầu hệ thống bằng UML.
-•	Nội dung:
-o	Chọn Mini Project (ví dụ: hệ thống quản lý đặt phòng khách sạn, hệ thống bán hàng online).
-o	Vẽ Use Case Diagram mô tả chức năng chính và các tác nhân.
-o	Viết Use Case Description cho ít nhất 2 chức năng quan trọng.
-o	Upload bản vẽ (dạng ảnh hoặc file .drawio) lên GitHub.
+
+1.1 Entity (6 bảng dữ liệu chính)
+• Guest (Khách hàng)
+• RoomType (Loại phòng)
+• Room (Phòng cụ thể)
+• Reservation (Đặt phòng)
+• Payment (Thanh toán)
+• Staff (Nhân viên/Lễ tân/Quản lý)
+
+Mối quan hệ:
+• Guest 1–N Reservation
+• Reservation 1–N Payment
+• RoomType 1–N Room
+• Room 1–N Reservation
+• Staff 1–N Reservation (lễ tân quản lý)
+
+
+1.2 Biểu đồ UML Use Case:
+
+
+1.3 Sequence UML
+
+a) Luồng Đặt phòng online:
+
+
+b) Luồng Check-in/Check-out (Lễ tân):
+
+
+1.4 Thiết kế cơ sở dữ liệu (ERD):
+
 
 
 
