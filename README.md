@@ -41,8 +41,9 @@ Thay đổi số lượng sản phẩm trong giỏ hàng
 
 ## 📐 Thiết kế hệ thống
 - **Use Case Diagram**: ![Use Case](https://github.com/SounHuynh/NMCPM/issues/1#issue-3483538595)
-- **Sequence Diagram**: ![Sequence]()
-- **ERD (Entity Relationship Diagram)**: ![ERD](./docs/erd.png)
+- **Sequence User diagram **: ![User Sequence](https://github.com/SounHuynh/NMCPM/issues/2#issue-3483541930)
+- **Sequence Admin diagram **: ![User Sequence](https://github.com/SounHuynh/NMCPM/issues/3#issue-3483543456)
+- **ERD (Entity Relationship Diagram)**: ![ERD]([./docs/erd.png](https://github.com/SounHuynh/NMCPM/issues/4#issue-3483544175))
 
 Jira quản lí dự án: https://huynhnhatson-n23dcpt102.atlassian.net/jira/software/projects/SM/boards/5/timeline.
  
