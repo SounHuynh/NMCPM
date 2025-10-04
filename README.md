@@ -4,8 +4,8 @@
 Dự án này được phát triển trong môn **Nhập môn Công nghệ Phần mềm**.  
 Mục tiêu là áp dụng quy trình phát triển phần mềm, từ **phân tích yêu cầu, thiết kế, lập trình, kiểm thử và triển khai**.  
 
-## 👥 Thành viên nhóm
-- Họ tên 1 – Huỳnh Nhật Sơn_N23DCPT102
+## 👥 Họ và tên sinh viên thực hiện: Huỳnh Nhật Sơn_N23DCPT102
+Lớp: D23CQPTTK01-N.
 
 ## 💻 Công nghệ sử dụng
 - Ngôn ngữ: JavaScript/ HTML.
