@@ -40,7 +40,7 @@ Xóa sản phẩm khỏi giỏ hàng
 Thay đổi số lượng sản phẩm trong giỏ hàng
 
 ## 📐 Thiết kế hệ thống
-- **Use Case Diagram**: ![Use Case](.usecase.png)
+- **Use Case Diagram**: ![Use Case](<img width="490" height="579" alt="Image" src="https://github.com/user-attachments/assets/bac4412c-8e15-4799-b43d-2af848403071" />)
 - **Sequence Diagram**: ![Sequence](./docs/sequence.png)
 - **ERD (Entity Relationship Diagram)**: ![ERD](./docs/erd.png)
 
