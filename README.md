@@ -64,6 +64,7 @@ Mối quan hệ:
 • Room 1–N Reservation
 • Staff 1–N Reservation (lễ tân quản lý)
 
+## 📐 Thiết kế hệ thống:
 
 1.2 Biểu đồ UML Use Case: ![Use Case](https://github.com/SounHuynh/NMCPM/issues/5#issue-3483553974)
 
