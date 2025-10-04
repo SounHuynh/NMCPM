@@ -45,6 +45,7 @@ Thay đổi số lượng sản phẩm trong giỏ hàng
 - **ERD (Entity Relationship Diagram)**: ![ERD](https://github.com/SounHuynh/NMCPM/issues/4#issue-3483544175)
 
 Jira quản lí dự án: https://huynhnhatson-n23dcpt102.atlassian.net/jira/software/projects/SM/boards/5/timeline.
+
  
 ## 📐 Lap_02: Đề tài Hotel booking system
 
@@ -63,7 +64,7 @@ Mối quan hệ:
 • Room 1–N Reservation
 • Staff 1–N Reservation (lễ tân quản lý)
 
-## 📐 Thiết kế hệ thống:
+
 
 1.2 Biểu đồ UML Use Case: ![Use Case](https://github.com/SounHuynh/NMCPM/issues/5#issue-3483553974)
 
@@ -75,7 +76,7 @@ b)Sequence luồng Check-in/Check-out (Lễ tân):  ![Sequence](https://github.c
 
 1.4 Thiết kế cơ sở dữ liệu (ERD): ![ERD](https://github.com/SounHuynh/NMCPM/issues/8#issue-3483556760) 
 
-Quản lí dự án Jira: 
+Quản lí dự án Jira: https://huynhnhatson-n23dcpt102.atlassian.net/jira/software/projects/HBS/summary
 
 
 
